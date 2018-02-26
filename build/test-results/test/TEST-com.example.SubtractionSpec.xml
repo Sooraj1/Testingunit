@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.SubtractionSpec" tests="5" skipped="4" failures="0" errors="0" timestamp="2018-02-23T11:40:14" hostname="sooraj-awasthi" time="0.138">
+  <properties/>
+  <testcase name="canary test" classname="com.example.SubtractionSpec" time="0.136"/>
+  <testcase name="Subtraction of two nyumbers" classname="com.example.SubtractionSpec" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="subtraction of two numbers" classname="com.example.SubtractionSpec" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="subtraction of two numbers, another way" classname="com.example.SubtractionSpec" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="subtraction of two numbers, other way" classname="com.example.SubtractionSpec" time="0.0">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[this is canary test
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
